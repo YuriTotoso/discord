@@ -1,6 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/YuriTotoso/discord
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/YuriTotoso/discordv3
 build-by-default: true
 branches:
 - main
-projects: []
+projects:
+  discordv3:
+    path: ""
 ...
