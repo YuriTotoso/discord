@@ -1,6 +1,16 @@
 ---
 name: discordv3
-version: 1.0.0
+author: YuriTotoso
 main: YuriTotoso\discordv3\Main
-api: 3.23.1
+version: 1.0.0
+api:
+- 3.0.0
+commands:
+  dc:
+    permission: dcv3.use
+    permission-message: '§cSem Permisão!'
+    description: 'saiba o discord do SEUSERVIDOR'
+permissions:
+  dcv3.use:
+    default: true
 ...
