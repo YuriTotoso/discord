@@ -17,7 +17,7 @@ class Main extends PluginBase{
             case "dc":
               $sender->sendMessage("§7Discord FROM YOUR SERVER:\n §ehttps://discord.gg/ \nEnter Now!");
             }
-   return true;
+            break;
         }
-   }
+   return true;
 }
