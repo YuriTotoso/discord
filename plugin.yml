@@ -13,5 +13,4 @@ commands:
     description: 'See Your Server Discord Link'
 permissions:
   dcv3.use:
-    default: true
 ...
