@@ -23,7 +23,7 @@ You've found a Bug?
 ### Commands
 |**Command**|**Description**|**Permission**|
 |-----------|---------------|--------------|
-|`/dc`|command discord.|`theRankShop.cmd`|
+|`/dc`|command discord.|`dcv3.use`|
 
 ### License:
 This Plugin has the [Apache License 2.0](/LICENSE)! Plugin by YurihudsonXD!
