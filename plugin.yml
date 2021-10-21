@@ -7,10 +7,7 @@ api:
 - 3.0.0
 - 4.0.0
 commands:
-  dc:
+   dc:
+    description: See Your Server Discord Link!
     permission: dcv3.use
-    permission-message: '§cWithout Permision!'
-    description: 'See Your Server Discord Link'
-permissions:
-  dcv3.use
 ...
