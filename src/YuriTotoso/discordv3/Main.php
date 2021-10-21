@@ -12,8 +12,8 @@ class Main extends PluginBase{
     $this->getLogger()->notice("---Plugin Has Just Been Turned On - Created By YurihudsonXD---");
 }
 
-    public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool{
-        switch($cmd->onCommand()){
+   public function onCommand(CommandSender $sender, Command $cmd,  string $label, array $args) : bool{
+        switch($cmd->getName()){
             case "dc":
               $sender->sendMessage("§7Discord FROM YOUR SERVER:\n §ehttps://discord.gg/ \nEnter Now!");
                                return true;
