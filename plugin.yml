@@ -5,11 +5,12 @@ main: YuriTotoso\discordv3\Main
 version: 1.0.0
 api:
 - 3.0.0
+- 4.0.0
 commands:
   dc:
     permission: dcv3.use
-    permission-message: '§cSem Permisão!'
-    description: 'saiba o discord do SEUSERVIDOR'
+    permission-message: '§cWithout Permision!'
+    description: 'See Your SERVER's Discord Link'
 permissions:
   dcv3.use:
     default: true
