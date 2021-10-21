@@ -16,7 +16,8 @@ class Main extends PluginBase{
         switch ($command->getName()){
             case "dc":
               $sender->sendMessage("§7Discord FROM YOUR SERVER:\n §ehttps://discord.gg/ \nEnter Now!");
-                               return true;
+            }
+   return true;
         }
    }
 }
