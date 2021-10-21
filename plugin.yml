@@ -12,5 +12,5 @@ commands:
     permission-message: '§cWithout Permision!'
     description: 'See Your Server Discord Link'
 permissions:
-  dcv3.use:
+  dcv3.use
 ...
