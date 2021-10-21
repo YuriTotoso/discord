@@ -15,7 +15,7 @@ If you've new ideas and features for this plugin, please open an issue :)
 ### Report Bug
 You've found a Bug?
 - Go to [Issues](https://github.com/YuriTotoso/discordv3/issues)
-- Click on [New Issue](https://github.com/supercrafter333/theRankShop/issues/new/choose)
+- Click on [New Issue](https://github.com/YuriTotoso/discordv3/issues/new/choose)
 - Write your bug with all information that you have down
 - Send Issue
 - Wait, I where answer you
